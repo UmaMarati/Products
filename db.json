@@ -1,4 +1,4 @@
-"data":[
+var data = [
     {
        "id":1,
        "productName": "Milkfood",
@@ -100,4 +100,3 @@
        "offerText": "18% OFF"
     }
    ]
-
