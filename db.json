@@ -1,4 +1,4 @@
-{ "data" : [
+{ "data" : {
     {
        "id":1,
        "productName": "Milkfood",
@@ -99,5 +99,5 @@
        "imageUrl": "",
        "offerText": "18% OFF"
     }
-   ]
+}
 }
